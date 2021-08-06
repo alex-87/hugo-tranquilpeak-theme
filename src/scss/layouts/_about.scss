@@ -17,12 +17,13 @@
         // Position the card out the page to improve the javascript drop effect
         top:           -1000px;
         display:       block;
-        background:    white;
-        max-width:     400px;
+        background:    transparent;
+        max-width:     800px;
         margin:        15px auto;
-        border-radius: 3px;
+        border-radius: 15px;
         padding:       30px 0;
-        @include prefix(box-shadow, 0 0 5px rgba(0, 0, 0, 0.50), 'webkit' 'moz');
+        color:         rgb(231, 231, 231);
+        @include prefix(box-shadow, 0 0 15px rgb(15, 15, 15), 'webkit' 'moz');
 
         #about-btn-close {
             position: absolute;
@@ -57,7 +58,7 @@
             font-size:   $font-size-base;
             line-height: $line-height-base;
             font-weight: 400;
-            color:       map-get($colors, base);
+            //color:       map-get($colors, base);
         }
     }
 }

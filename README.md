@@ -1,4 +1,15 @@
+# Changes made on this fork
+
+The following changes were made on this fork:
+- Modification of the "About" card
+- Add of the configurable "Made in" in the footer
+- Add of the theme credits in the footer
+- Add of the configurable "Hosted by" in the footer
+- Add examples of those new configuration fields into the exampleSite/config.toml
+
+
 # Tranquilpeak
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thibaudlepretre.svg?style=social&label=%40thibaudlepretre)](https://twitter.com/intent/follow?screen_name=thibaudlepretre)
 

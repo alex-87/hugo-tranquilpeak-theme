@@ -140,7 +140,10 @@
         .sidebar-profile-job,
         .sidebar-profile-location {
             font-weight: 400;
-            font-size:   1.6rem;
+            font-size:   1.4rem;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            text-align:  justify;
+            text-justify: inter-cluster;
             color:       map-get($sidebar, color);
         }
         .sidebar-profile-job,

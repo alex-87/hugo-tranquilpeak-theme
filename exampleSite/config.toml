@@ -44,6 +44,10 @@ canonifyurls = true
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
+  hostedby = "<web hosting company>"
+  withlove = "Made in <country, city, etc...>"
+  themecredit = "[tranquilpeak LouisBarranqueiro/kakawait](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)"
+
 
 # Menu Configuration
 [[menu.main]]
